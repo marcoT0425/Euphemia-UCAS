@@ -15,3 +15,4 @@ In this version, there are several improvements, including:
 * The difference between ᔆ (U+1506) and ᣵ (U+18F5)
 * With 12 extra PUA characters for Dakelh finals and a Nunavit "angma".
 * An improved design of the Carrier Hwi.
+* Corrected the glyph orientation of Carrier Tlho per https://github.com/typotheque/syllabics-knowledge/issues/5#issuecomment-3200994504
